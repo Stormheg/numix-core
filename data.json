@@ -19581,12 +19581,12 @@
             "root": "typora"
         }
     },
-    "uberwriter": {
+    "apostrophe": {
         "linux": {
-            "root": "uberwriter",
+            "root": "apostrophe",
             "symlinks": [
-                "de.wolfvollprecht.UberWriter",
-                "Uberwriter"
+                "org.gnome.gitlab.somas.Apostrophe",
+                "Apostrophe"
             ]
         }
     },
